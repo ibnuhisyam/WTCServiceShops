@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WTC Service Shops</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_amazone">Amazone</string>
+    <string name="amazone">AMAZONE</string>
+    <string name="title_activity_cinema">Cinema 21</string>
+    <string name="title_activity_johnny">Johnny Andrean</string>
+
+</resources>
